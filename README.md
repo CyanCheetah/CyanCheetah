@@ -9,7 +9,6 @@ I mainly work on First Tech Challenge and Lego EV3 Projects. On the side, I try 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to watch Anime! (Gintama is a good watch)
 
-![nnnn](https://user-images.githubusercontent.com/91763642/231606919-f6e5ca99-5d11-4c90-9642-670b3ec69198.gif)
 ![hippo](https://i.pinimg.com/originals/ba/3e/74/ba3e74fca9813417524309b7d89c5f2f.gif)
 
 
