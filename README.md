@@ -31,9 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyancheetah&show_icons=true&locale=en" alt="cyancheetah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyancheetah&" alt="cyancheetah" /></p>
-
-
+### Gintama is a good watch!
 ![hippo](https://i.pinimg.com/originals/ba/3e/74/ba3e74fca9813417524309b7d89c5f2f.gif)
 
 
