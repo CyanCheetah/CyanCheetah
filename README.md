@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Tanuj Karavadi</h1>
-<h3 align="center">A High School Programmer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyancheetah&label=Profile%20views&color=0e75b6&style=flat" alt="cyancheetah" /> </p>
+<h3 align="center">I am a High School Programmer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyancheetah" alt="cyancheetah" /></a> </p>
 
@@ -16,6 +14,8 @@
 - 📫 How to reach me on Discord: **CyanCheetah#6013**
 
 - ⚡ Fun fact **I love to watch Anime!**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyancheetah&label=Profile%20views&color=0e75b6&style=flat" alt="cyancheetah" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
