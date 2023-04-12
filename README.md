@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Sai Tanuj Karavadi, a current High Schooler!
+
+I mainly work on First Tech Challenge and Lego EV3 Projects. On the side, I try to learn mySQL and Jupyter languages as well. 
+
+
 
 ![](https://komarev.com/ghpvc/?username=CyanCheetah&color=blue)
 <!--
