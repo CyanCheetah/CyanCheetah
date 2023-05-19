@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on: [Lego-EV3-Project](https://github.com/CyanCheetah/EV32)
+- 🔭 I’m currently working on: [Lego-EV3-Project](https://github.com/CyanCheetah/CyanBot)
 
 - 🌱 I’m currently learning: **mySQL**
 
