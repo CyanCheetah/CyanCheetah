@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on: [CyanBase TV Show Database Website](https://github.com/CyanCheetah/cyancheetah.github.io-master)
 
-- 🌱 I’m currently learning: **mySQL**
+- 🌱 I’m currently learning: **Website Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CyanCheetah](https://github.com/CyanCheetah)
 
-- 💬 Ask me about **EV3, First Tech Challenge**
+- 💬 Ask me about **First Tech Challenge, React, HTML, Java**
 
 - 📫 How to reach me on Discord: **CyanCheetah#6013**
 
