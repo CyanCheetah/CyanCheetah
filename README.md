@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **First Tech Challenge, React, HTML, Java**
 
-- 📫 How to reach me on Discord: **CyanCheetah#6013**
+- 📫 How to reach me on Discord: **cyancheetah**
 
 - ⚡ Fun fact **I love to watch Anime!**
 
